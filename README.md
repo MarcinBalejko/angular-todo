@@ -1,5 +1,7 @@
 # AngularTodo
 
+Creating a simple to-do list application with Angular and some basic CSS.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
 ## Development server
